@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6.0",
-  "downloadUrl": "https://github.com/gojogm/noor-al-kalima-updates/releases/download/v1.6.0/NoorAlKalima-user-1.6.0.apk",
+  "versionCode": 6,
+  "versionName": "1.5.0",
+  "downloadUrl": "https://gojogm.github.io/noor-al-kalima-updates/",
   "forceUpdate": false,
-  "message": "تحديث نور الكلمة 1.6.0 — تحسينات وربط التحديثات بالمستودع الرسمي الجديد"
+  "message": "نور الكلمة — صفحة الموقع والتحديثات الرسمية"
 }
