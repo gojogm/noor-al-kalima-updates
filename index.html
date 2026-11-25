@@ -46,7 +46,7 @@ h1{font-size:clamp(2.4rem,7vw,5rem);line-height:1.2;margin:22px 0 12px;letter-sp
       if(!Array.isArray(releases)||releases.length===0) break;
       for(const release of releases){
         for(const asset of (release.assets||[])){
-          if(/^NoorAlKalima-user-.*\\.apk$/i.test(asset.name)) total+=Number(asset.download_count||0);
+          if(/^NoorAlKalima-user-.*\.apk$/i.test(asset.name)) total+=Number(asset.download_count||0);
         }
       }
       if(releases.length<100) break;
